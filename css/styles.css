@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&family=Rowdies:wght@300&family=Unbounded:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
 
 * {
     margin: 0;
@@ -32,30 +34,24 @@
 }
 
 button {
-    font-size: 18px;
-    font-weight: bold;
-    padding: 10px;
-    border-radius: 9px;
-    border: 1px solid #000;
     background-color: #004c13;
-    color: #fff;
-    display: flex;
-    justify-content: center;
+    color: #eee;
+    padding: 12px;
+    font-size: 19px;
+    font-weight: bold;
+    border-radius: 10px;
+    letter-spacing: .6px;
+    border: none;
+    box-shadow: 0 0 11px 0 #285430;
 
 }
-
-
-
-
 
 button:hover {
-    background-color: #539e37;
-
-    color: #e5d9b6;
-    font-weight: bold;
-
+    background-color: #02631a;
+    transition: .5s;
+    box-shadow: 0 0 11px 0 #004c13;
+    cursor: pointer;
 }
-
 
 
 
@@ -98,28 +94,28 @@ nav ul {
 }
 
 .li-0:hover {
-    font-size: 27px;
-    transition: .4s;
+    letter-spacing: 3px;
+    transition: .5s;
 }
 
 
 
 .li-1:hover {
-    font-size: 22px;
+    letter-spacing: 3px;
     font-weight: bold;
     transition: .4s;
 }
 
 
 .li-2:hover {
-    font-size: 22px;
+    letter-spacing: 3px;
     font-weight: bold;
     transition: .4s;
 }
 
 
 .li-3:hover {
-    font-size: 22px;
+    letter-spacing: 3px;
     font-weight: bold;
     transition: .4s;
 }
@@ -185,7 +181,7 @@ header nav a {
     width: 20%;
     background-color: #e5d9b6;
     height: 100%;
-    border-radius: 10px;
+    border-radius: 20px;
     margin-bottom: 30px;
 }
 
@@ -193,7 +189,7 @@ header nav a {
 .card img {
     height: 200px;
     width: 100%;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .card__text h4 {
@@ -216,9 +212,13 @@ header nav a {
 .card__button{
     display: flex;
     justify-content: center;
-    margin: 15px;
+
 }
 
+
+.card__button button {
+    margin: 15px;
+}
 
 
 
@@ -230,41 +230,119 @@ footer {
     height: 10%;
 }
 
+
+
+/* CONTACTO */
+
 .form-section {
+    height: 100%;
+    width: 100%;
     background-color: #a4be7b;
+    
+}
+
+.form-section h1 {
+    text-align: center;
+    color: #000;
+    font-size: 42px;
+    padding: 30px;
+    font-family: 'Secular One', sans-serif;
+    
+}
+
+.forms {
+    display: flex;
+    justify-content: space-around;
+}
+
+.forms img {
+    width: 40%;
+    height: 100%;
+    margin: 40px;
+    border-radius: 30px;
 }
 
 form {
     display: flex;
+    flex-direction: column;
+    width: 40%;
+    height: 100%;
     align-items: center;
-    justify-content: space-between;
 }
 
 .form {
     display: flex;
     flex-direction: column;
-    background-color: #e5d9b6;
-    width: 100%;
-    height: 100%;
+    height: 500px;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .form input {
-    border-radius: 10px solid #000;
-    width: 600px;
-    height: 20px;
+    background-color: #eee;
+    width: 90%;
+    height: 45px;
+    border: none;
+    border-radius: 15px;
+    outline: 1px solid #5F8D4E;
+    text-align: center;
+    font-size: 15px;
 }
 
-/* CONTACTO */
-
-.forms img {
-    display: flex;
-    justify-content: space-between;
+form label {
+    text-align: center;
+    font-size: 25px;
+    color: #fff;
+    font-family: 'Rowdies', sans-serif;
 }
 
-.forms {
-    display: flex;
+input::placeholder {
+    text-align: center;
+    color: #1e9328;
+    font-family: 'Secular One', sans-serif;
+    font-size: 17px;
 }
 
+
+
+input:hover {
+    border: none;
+    box-shadow: 0px -7px 0px -1px #e5d9b6;
+    transition: .5s;
+
+
+}
+
+textarea {
+    resize: none;
+    width: 90%;
+    height: 70px;
+    border-radius: 15px;
+    border: none;
+    text-align: center;
+    outline: 1px solid #5F8D4E;
+}
+
+textarea:hover {
+    border: none;
+    box-shadow: 0px -7px 0px -1px #e5d9b6;
+    transition: .5s;
+
+}
+
+.submit-btn {
+    font-family: 'Secular One', sans-serif;
+    color: #1e9328;
+}
+
+
+.submit-btn:hover {
+    background-color: #e5d9b6;
+    color: #000;
+    box-shadow: none;
+    transition: .3s;
+
+}
 
 
 
@@ -285,6 +363,7 @@ form {
     padding: 45px 0;
     color:#000;
     font-size: 40px;
+    font-family: 'Secular One', sans-serif;
 }
 
 .products__subtitle h3 {
@@ -341,23 +420,28 @@ form {
     flex-direction: column;
     justify-content: center;
 }
-.product__button {
 
-    margin-top: 20px;
-}
 
 
 .product__button {
     display: flex;
     justify-content: center;
+
+
+}
+
+.product__button button {
+    margin: 15px;
     border: none;
-    margin: 10px;
+    
+
 }
 
 .product:hover {
-    box-shadow: 3px 13px 37px 13px #004c13;
-    transition: .4s;
+    box-shadow: 3px 15px 37px 13px #004c13;
+    transition: .6s;
     border: none;
+    cursor: pointer;
 }
 
 
@@ -415,7 +499,7 @@ form {
 
 
 
-@media only screen and (min-width: 320px) {
+@media only screen and (max-width: 320px) {
 
 /*HEADER*/
 
@@ -468,10 +552,10 @@ li a {
 }
 
 .info img {
-    border-radius: 20px;
-    height: 50%;
+
+    height: 40%;
     width: 90%;
-    justify-content: center;
+
 }
 
 
