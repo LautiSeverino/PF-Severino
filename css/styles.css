@@ -279,9 +279,13 @@ footer {
     font-size: 38px;
     color: #285430;
     margin-bottom: 20px;
+    
 }
 
-
+.fa-brands:hover{
+    transform: scale(1.1,1.1);
+    transition: .6s;
+}
 
 
 
