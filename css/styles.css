@@ -170,12 +170,28 @@ ul {
     font-family: 'Secular One', sans-serif;
 }
 
+.cards-info {
+    width: 100%;
+    height: 100%;
+    background-color: #5F8D4E;
+}
+
+.cards-info h3{
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Secular One', sans-serif;
+    font-size: 30px;
+    color: #eee;
+    
+}
+
+
+
 .cards {
     width: 100%;
     height: 100%;
     display: flex;
     justify-content: center;
-    background-color: #5F8D4E;
     gap: 400px;
 }
 
