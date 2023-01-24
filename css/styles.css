@@ -861,8 +861,46 @@ iframe {
 }
 
 
+/*FORM*/
 
 
+.forms {
+    justify-content: center;
+    flex-direction: column;
+}
+
+.forms img {
+    align-self: center;
+    width: 90%;
+    margin: 0 0 20px 0;
+    
+}
+
+form {
+    width: 100%;
+}
+
+
+.form {
+    height: 100%;
+}
+
+
+
+form label {
+    margin: 20px 0;
+}
+
+
+textarea {
+    margin-bottom: 50px;
+}
+
+
+
+.submit-btn {
+    margin-bottom: 50px;
+}
 
 
 }
@@ -991,17 +1029,7 @@ iframe {
         height: 100%;
     }
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
     
     
     
@@ -1096,16 +1124,58 @@ iframe {
     /*IFRAME*/
     
     
-    
-    
     .mate-info .card {
         width: 100%;
     
     }
     
     
+
+    /*FORM*/
+
+
+.forms {
+    justify-content: center;
+    flex-direction: column;
+}
+
+.forms img {
+    align-self: center;
+    width: 90%;
+    margin: 0 0 20px 0;
     
-    }
+}
+
+form {
+    width: 100%;
+}
+
+
+.form {
+    height: 100%;
+}
+
+
+
+form label {
+    margin: 20px 0;
+}
+
+
+textarea {
+    margin-bottom: 50px;
+}
+
+
+
+.submit-btn {
+    margin-bottom: 50px;
+}
+
+
+    
+}
+
 
 
 
