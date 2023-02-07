@@ -1,0 +1,56 @@
+//FOOTER
+
+footer {
+    background-color: $back-header;
+    width: 100%;
+    height: 100%;
+
+    .footer__text {
+        height: 100%;
+        width: 100%;
+
+        p {
+            text-align: center;
+            padding: 25px;
+            font-size: 20px;
+            color: $color-main;
+        }
+
+
+        .footer__imgs {
+            height: 100%;
+            width: 100%;
+            display: flex;
+
+
+            .footer__img {
+                width: 100%;
+                height: 100%;
+                display: flex;
+                justify-content: center;
+                gap: 40px;
+
+                .fa-brands {
+                    font-size: 38px;
+                    color: $color-sm;
+                    margin-bottom: 20px;
+
+
+
+                    &:hover {
+                        transform: scale(1.1, 1.1);
+                        transition: .6s;
+                    }
+
+                }
+            }
+
+
+        }
+
+    }
+
+
+
+
+}

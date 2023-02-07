@@ -1,0 +1,163 @@
+//PRODUCTS
+
+
+.products-info {
+    width: 100%;
+    height: 100%;
+
+    .products__title h1 {
+        text-align: center;
+        padding: 45px 0;
+        color: $color-subtitle;
+        font-size: 40px;
+        font-family: $font-sec, sans-serif;
+    }
+
+
+    .products__subtitle h2 {
+        text-align: center;
+        margin: 70px 0;
+        color: $color-subtitle;
+        font-size: 30px;
+        font-family: $font-thi, sans-serif;
+        letter-spacing: 3.5px;
+    }
+
+    .products {
+        @include flexbox (100%, 510px, flex, space-between, 10px);
+
+
+
+
+
+        .product {
+
+            @include tamanio (30%, 100%, #fff, 2.5px rgb(222, 222, 222) solid, 20px, 40px);
+
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            
+            
+
+            &:hover {
+                box-shadow: 3px 15px 37px 13px $color-main;
+                transition: .6s;
+                border: none;
+                cursor: pointer;
+            }
+
+
+
+            img {
+                @include img-size (200px, 220px);
+                margin: auto;
+                
+            }
+
+            .divider {
+                background-color: $back-info;
+                width: 50%;
+                height: 2px;
+                display: flex;
+                align-self: center;
+                margin: 15px 0;
+
+            }
+
+
+            .product__text {
+
+                .fa-solid {
+                    color: #1e9328;
+                    font-size: 17px;
+                }
+
+                h3 {
+                    text-align: center;
+                    flex-direction: column;
+                    justify-content: center;
+                    padding: 5px 0;
+                    font-family: $font-sec, sans-serif;
+                    color: #02631a;
+                    font-size: 23px;
+                }
+
+                p {
+                    text-align: center;
+                    flex-direction: column;
+                    justify-content: center;
+                    font-family: $font-thi, sans-serif;
+                    color: #1e9328;
+                    font-size: 20px;
+                }
+
+                .product__button {
+                    margin: 15px;
+                }
+
+            }
+        }
+    }
+
+
+    .mate-info {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+
+        .card {
+            height: 100%;
+            width: 50%;
+            background-color: rgb(242, 238, 238);
+            border: #198754 2px solid;
+            border-radius: 25px;
+
+            .card-title {
+                text-align: center;
+                font-size: 28px;
+                font-family: $font-thi, sans-serif;
+                color: $color-main;
+            }
+
+            .card-text {
+                text-align: center;
+                font-family: $font-sec, sans-serif;
+                color: $color-main;
+                font-size: 20px;
+            }
+        }
+
+        iframe {
+            align-self: center;
+            width: 90%;
+            height: 400px;
+            margin-bottom: 30px;
+            border-radius: 20px;
+        }
+    }
+}
+
+
+
+
+//BUTTONS
+
+
+.btn {
+
+
+    border: none;
+    box-shadow: 0 0 11px 0 $color-sm;
+
+    &:hover {
+        background-color: #048324;
+        transition: .5s;
+        box-shadow: 0 0 11px 0 $color-main;
+        cursor: pointer;
+    }
+
+}

@@ -1,0 +1,120 @@
+//CONTACTO
+
+.form-section {
+    height: 100%;
+    width: 100%;
+    background-color: $back-info;
+
+
+    h1 {
+        text-align: center;
+        color: $color-subtitle;
+        font-size: 42px;
+        padding: 30px;
+        font-family: $font-sec, sans-serif;
+
+    }
+
+    .forms {
+        display: flex;
+        justify-content: space-around;
+
+        img {
+            @include img-size (40%, 100%);
+            margin: 40px;
+            border-radius: 30px;
+        }
+
+
+        form {
+            display: flex;
+            flex-direction: column;
+            width: 40%;
+            height: 100%;
+            align-items: center;
+
+            label {
+                text-align: center;
+                font-size: 25px;
+                color: $color-title;
+                font-family: $font-thi, sans-serif;
+            }
+
+
+            .form {
+                display: flex;
+                flex-direction: column;
+                height: 500px;
+                justify-content: space-between;
+                align-items: center;
+
+                input {
+                    background-color: $color-title;
+                    width: 90%;
+                    height: 45px;
+                    border: none;
+                    border-radius: 15px;
+                    outline: 1px solid $back-cards;
+                    text-align: center;
+                    font-size: 15px;
+
+                    &::placeholder {
+                        text-align: center;
+                        color: $color-ph;
+                        font-family: $font-sec, sans-serif;
+                        font-size: 17px;
+                    }
+
+                    &:hover {
+                        border: none;
+                        box-shadow: 0px -7px 0px -1px $back-header;
+                        transition: .5s;
+
+
+                    }
+                }
+
+                textarea {
+                    resize: none;
+                    width: 90%;
+                    height: 70px;
+                    border-radius: 15px;
+                    border: none;
+                    text-align: center;
+                    outline: 1px solid $back-cards;
+
+
+                    &:hover {
+                        border: none;
+                        box-shadow: 0px -7px 0px -1px $back-header;
+                        transition: .5s;
+
+                    }
+
+
+                }
+
+                .submit-btn {
+                    font-family: $font-sec, sans-serif;
+                    color: $color-ph;
+                    
+                    
+
+                    &:hover {
+                        background-color: $back-header;
+                        color: $color-subtitle;
+                        box-shadow: none;
+                        transition: .3s;
+
+                    }
+                }
+
+            }
+
+        }
+
+
+    }
+
+
+}

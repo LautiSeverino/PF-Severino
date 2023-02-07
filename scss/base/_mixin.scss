@@ -1,0 +1,26 @@
+
+
+
+@mixin tamanio ($ancho, $alto, $bc, $border, $mar, $br) {
+    width: $ancho;
+    height: $alto;
+    background-color: $bc;
+    border-left: $border;
+    border-right: $border;
+    margin: $mar;
+    border-radius: $br;
+
+}
+
+@mixin img-size ($ancho, $alto) {
+    width: $ancho;
+    height: $alto;
+}
+
+@mixin flexbox ($ancho, $alto, $dplay, $jc, $gap) {
+    width: $ancho;
+    height: $alto;
+    display: $dplay;
+    justify-content: $jc;
+    gap: $gap;
+}

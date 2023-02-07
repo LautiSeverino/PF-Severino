@@ -1,0 +1,610 @@
+@media only screen and (max-width: 320px) {
+
+
+
+    //HEADER
+
+    header {
+        position: relative;
+        display: grid;
+
+
+        nav {
+
+
+
+            .navbar-brand {
+                text-align: center;
+                width: 100%;
+                margin: 10px;
+                padding: 0;
+
+            }
+
+
+            ul {
+                width: 100%;
+                text-align: center;
+                margin: 0;
+                padding: 0;
+
+                .nav-item a {
+                    margin: 20px 0;
+                    font-size: 20px;
+
+
+                }
+
+            }
+
+
+        }
+
+    }
+
+
+
+
+
+
+
+
+
+    //INFO
+
+    .info {
+        justify-content: space-evenly;
+        flex-direction: column;
+
+        img {
+            
+            height: 40%;
+            width: 90%;
+        }
+
+
+        .info__text {
+            width: 100%;
+            padding: 10px;
+            align-items: center;
+            justify-content: center;
+
+            p {
+                
+                text-align: center;
+                font-size: 20px;
+            }
+
+        }
+
+
+
+    }
+
+
+
+
+    //CARDS
+
+    .cards-info {
+
+
+
+        .cards {
+            flex-direction: column;
+            gap: 0px;
+
+            .card {
+                width: 90%;
+                align-self: center;
+                height: 100%;
+
+            }
+        }
+
+    }
+
+
+
+    //CLIENTS
+
+
+    .clients-info {
+
+
+
+
+        .clients {
+            display: grid;
+            justify-content: center;
+
+            .client {
+                display: flex;
+                align-items: center;
+
+
+
+
+                .client__text {
+
+                    h4 {
+                        text-align: center;
+                        font-size: 17px;
+                    }
+
+                    p {
+                        text-align: center;
+
+
+
+                    }
+                }
+            }
+        }
+    }
+
+
+
+
+
+    //CONTACTO
+
+
+
+    .form-section {
+
+
+
+
+        .forms {
+            justify-content: center;
+            flex-direction: column;
+
+            img {
+                align-self: center;
+                width: 90%;
+                margin: 0 0 20px 0;
+            }
+
+
+            form {
+                width: 100%;
+
+                label {
+                    margin: 20px 0;
+                }
+
+
+                .form {
+                    height: 100%;
+
+
+                    textarea {
+                        margin-bottom: 50px;
+
+
+
+
+
+                    }
+
+                    .submit-btn {
+                        margin-bottom: 50px;
+
+
+                    }
+
+                }
+
+            }
+
+
+        }
+
+
+    }
+
+
+    //PRODUCTS
+
+
+    .products-info {
+
+
+        .separate {
+            width: 100%;
+            height: 50px;
+        }
+
+        .products__subtitle h2 {
+            letter-spacing: .7px;
+        }
+
+        .products {
+
+            height: 100%;
+            display: grid;
+            justify-content: center;
+
+
+            .product {
+                width: 90%;
+
+                &:hover {
+                    box-shadow: 3px 3px 37px 3px $color-main;
+                    transition: .6s;
+                }
+
+
+                img {
+                    @include img-size (200px, 230px);
+
+                }
+
+                .divider {
+                    width: 70%;
+
+                }
+
+
+                .product__text {
+
+
+
+                    .product__button {
+                        margin-bottom: 10px;
+                    }
+
+                }
+            }
+
+
+        }
+
+
+
+
+        //IFRAME
+
+
+
+
+        .mate-info {
+
+
+            .card {
+                width: 100%;
+
+
+            }
+
+            iframe {
+                width: 200px;
+                height: 200px;
+            }
+        }
+    }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//MEDIA QUERIE 480PX
+
+@media only screen and (max-width: 480px) {
+
+
+
+
+
+
+    //HEADER
+
+    header {
+        position: relative;
+        display: grid;
+
+
+        nav {
+
+
+
+            .navbar-brand {
+                text-align: center;
+                width: 100%;
+                margin: 10px;
+                padding: 0;
+
+            }
+
+
+            ul {
+                width: 100%;
+                text-align: center;
+                margin: 0;
+                padding: 0;
+
+                .nav-item a {
+                    margin: 20px 0;
+                    font-size: 20px;
+
+
+                }
+
+            }
+
+
+        }
+
+    }
+
+
+
+
+
+
+
+
+
+    //INFO
+
+    .info {
+        justify-content: space-evenly;
+        flex-direction: column;
+
+        img {
+            @include img-size (90%, 40%);
+
+            
+        }
+
+
+        .info__text {
+            width: 100%;
+            padding: 10px;
+            align-items: center;
+            justify-content: center;
+
+            p {
+                
+                text-align: center;
+                font-size: 20px;
+            }
+
+        }
+
+
+
+    }
+
+
+
+
+    //CARDS
+
+    .cards-info {
+
+
+
+        .cards {
+            flex-direction: column;
+            gap: 0px;
+
+            .card {
+                width: 90%;
+                align-self: center;
+                height: 100%;
+
+            }
+        }
+
+    }
+
+
+
+    //CLIENTS
+
+
+    .clients-info {
+
+
+
+
+        .clients {
+            display: grid;
+            justify-content: center;
+
+            .client {
+                display: flex;
+                align-items: center;
+
+
+
+
+                .client__text {
+
+                    h4 {
+                        text-align: center;
+                        font-size: 17px;
+                    }
+
+                    p {
+                        text-align: center;
+
+
+
+                    }
+                }
+            }
+        }
+    }
+
+
+
+
+
+    //CONTACTO
+
+
+
+    .form-section {
+
+
+
+
+        .forms {
+            justify-content: center;
+            flex-direction: column;
+
+            img {
+                align-self: center;
+                width: 90%;
+                margin: 0 0 20px 0;
+            }
+
+
+            form {
+                width: 100%;
+
+                label {
+                    margin: 20px 0;
+                }
+
+
+                .form {
+                    height: 100%;
+
+
+                    textarea {
+                        margin-bottom: 50px;
+
+
+
+
+
+                    }
+
+                    .submit-btn {
+                        margin-bottom: 50px;
+
+
+                    }
+
+                }
+
+            }
+
+
+        }
+
+
+    }
+
+
+    //PRODUCTS
+
+
+    .products-info {
+
+
+        .separate {
+            width: 100%;
+            height: 50px;
+        }
+
+        .products__subtitle h2 {
+            letter-spacing: .7px;
+        }
+
+        .products {
+
+            height: 100%;
+            display: grid;
+            justify-content: center;
+
+
+            .product {
+                width: 90%;
+
+                &:hover {
+                    box-shadow: 3px 3px 37px 3px $color-main;
+                    transition: .6s;
+                }
+
+
+                img {
+                    @include img-size (200px, 230px);
+
+                }
+
+                .divider {
+                    width: 70%;
+
+                }
+
+
+                .product__text {
+
+
+
+                    .product__button {
+                        margin-bottom: 10px;
+                    }
+
+                }
+            }
+
+
+        }
+
+
+
+
+        //IFRAME
+
+
+
+
+        .mate-info {
+
+
+            .card {
+                width: 100%;
+
+
+            
+
+            iframe {
+                width: 200px;
+                height: 200px;
+            }
+        }
+    }
+
+
+}
+
+
+
+
+
+}

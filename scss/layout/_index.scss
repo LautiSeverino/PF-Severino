@@ -1,0 +1,210 @@
+//INDEX
+
+//HERO
+
+.hero {
+    background-image:url(../assets/fondo-principal-mate1.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 60vh;
+
+    .hero__container {
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        width: 100%;
+        
+
+
+        .hero__title {
+            font-weight: bold;
+            letter-spacing: 5px;
+            color: $color-title;
+            font-size: 40px;
+        }
+        
+    }
+    
+}
+
+//INFO
+
+.info {
+    background-color: $back-info;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70vh;
+    
+    img {
+        margin: 10px;
+        border-radius: 20px;
+    }
+
+
+    .info__text {
+        width: 55%;
+        flex-direction: column;
+        color: #0a301d;
+        align-items: center;
+        justify-content: space-between;
+
+        p {
+            font-size: 27px;
+            font-family: $font-sec, sans-serif;
+        }
+
+    }
+
+
+
+}
+
+
+
+
+//CARDS
+
+.cards-info {
+    width: 100%;
+    height: 100%;
+    background-color: $back-cards;
+
+
+    h2 {
+        text-align: center;
+        padding-top: 50px;
+        font-family: $font-sec, sans-serif;
+        font-size: 30px;
+        color: $color-title;
+
+    }
+
+    .cards {
+        @include flexbox (100%, 100%, flex, center, 400px );
+
+        .card {
+            border-radius: 25px;
+            height: 550px;
+            width: 23rem;
+            border: none;
+            background-color: $back-header;
+            position: static;
+
+
+            img {
+                @include img-size (100%, 200px);
+                object-fit: cover;
+                border-radius: 25px 25px 0 0;
+                border: none;
+                border-bottom: 3px #1e9328 dotted;
+            }
+
+
+            .card-title {
+                text-align: center;
+                font-size: 28px;
+                font-family: $font-thi, sans-serif;
+                color: $color-main;
+            }
+
+            .card-text {
+                text-align: center;
+                font-family: $font-sec, sans-serif;
+                color: $color-main;
+                font-size: 20px;
+
+            }
+        }
+    }
+
+}
+
+
+
+//CLIENTS
+
+
+.clients-info {
+    width: 100%;
+    height: 100%;
+    background-color: $color-sm;
+
+
+    h3 {
+        text-align: center;
+        font-size: 30px;
+        padding: 20px 0;
+        color: $color-title;
+        letter-spacing: .5px;
+        font-family: $font-sec, sans-serif;
+    }
+
+    .clients {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+
+
+        .client {
+            flex-direction: column;
+            margin: 20px;
+
+
+            img {
+                @include img-size (110px, 110px);
+                border-radius: 50%;
+
+            }
+
+            .client__text {
+
+                h4 {
+                    color: $color-clients;
+                    font-size: 18px;
+                    letter-spacing: 1px;
+                    margin: 10px;
+                    padding: 5px;
+                    font-family: $font-c, sans-serif;
+                }
+
+                p {
+                    color: $color-title;
+                    margin: 20px;
+                    font-size: 17px;
+
+                    .fa-quote-left,
+                    .fa-quote-right {
+                        font-size: 20px;
+                        color: $color-clients;
+                    }
+
+                }
+            }
+        }
+    }
+}
+
+
+
+
+//BUTTON
+
+.btn {
+
+
+    border: none;
+    box-shadow: 0 0 11px 0 $color-sm;
+
+
+    :hover {
+        background-color: #048324;
+        transition: .5s;
+        box-shadow: 0 0 11px 0 $color-main;
+        cursor: pointer;
+    }
+}
