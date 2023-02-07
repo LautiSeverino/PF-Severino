@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/issues</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/pulls</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/projects?query=is%3Aopen</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/security</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/blob/master/.gitignore</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/blob/master/index.html</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/blob/master/package-lock.json</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/blob/master/package.json</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/releases</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/labels</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/compare</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/caches</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/4109126848</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3999756856</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3991640516</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3990901325</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3990124373</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3978311834</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3978303010</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3954003819</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3916398337</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3916389247</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/security/policy</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/security/advisories</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/blob/15a0a9943451411161f91a614ad984ce84c4e121/.gitignore</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/find/master</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/blob/15a0a9943451411161f91a614ad984ce84c4e121/index.html</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/blob/15a0a9943451411161f91a614ad984ce84c4e121/package-lock.json</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/blob/15a0a9943451411161f91a614ad984ce84c4e121/package.json</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/labels?sort=name-asc</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/labels?sort=name-desc</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/labels?sort=count-desc</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/labels?sort=count-asc</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/labels/bug</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/labels/documentation</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/labels/duplicate</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/labels/enhancement</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/labels/good%20first%20issue</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/labels/help%20wanted</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/labels/invalid</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/labels/question</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/labels/wontfix</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?state=open</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?state=closed</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/4109126848/jobs/7090597577</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/4109126848/jobs/7090604011</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/4109126848/jobs/7090604138</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/4109126848/usage</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/commit/15a0a9943451411161f91a614ad984ce84c4e121</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3999756856/jobs/6864045543</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3999756856/jobs/6864055233</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3999756856/jobs/6864054985</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3999756856/usage</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/commit/e7232022c00b44097878e02ff049e1601e429e08</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3991640516/jobs/6846649382</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3991640516/jobs/6846654207</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3991640516/jobs/6846654067</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3991640516/usage</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/commit/ffc673bd0d6dd9a3f6a16e32eca2821b43c6e96a</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3990901325/jobs/6845100075</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3990901325/jobs/6845106199</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3990901325/jobs/6845106070</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3990901325/usage</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/commit/4ba6ef20b8312b6535cea2ae206e1cefaf3552fb</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3990124373/jobs/6843389629</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3990124373/jobs/6843398800</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3990124373/jobs/6843399037</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3990124373/usage</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/commit/1330ca1aba777ed58cb9efe780b336134aee7e79</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3978311834/jobs/6820008301</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3978311834/jobs/6820010467</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3978311834/jobs/6820010497</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3978311834/usage</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/commit/9672a19f5887d0296db5c6d169cd66da8faced8c</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3978303010/jobs/6819995279</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3978303010/jobs/6819996975</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3978303010/jobs/6819997017</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3978303010/usage</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/commit/01b6b1d609b3e2726367a718330b9f8afe74e5b8</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3954003819/jobs/6770871072</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3954003819/jobs/6770879709</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3954003819/jobs/6770879844</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3954003819/usage</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3916398337/jobs/6695468685</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3916398337/jobs/6695473377</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3916398337/jobs/6695473290</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3916398337/usage</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/commit/4fe96e099d71180ef19d004ba00ca53be97fff14</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3916389247/jobs/6695450565</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3916389247/jobs/6695455135</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3916389247/jobs/6695455044</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/actions/runs/3916389247/usage</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/commit/b67b59ceaf946a42e459d4fe048ed782a7bbe23f</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/find/15a0a9943451411161f91a614ad984ce84c4e121</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LautiSeverino/PreEntrega2-Severino/commit/f703a9451f7c1383d3baca73b55fcd3d3bdb4fc1</loc>
+  <lastmod>2023-02-07T00:17:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
