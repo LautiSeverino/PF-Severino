@@ -51,7 +51,7 @@
 
 
             img {
-                @include img-size (200px, 220px);
+                @extend %imagen;
                 margin: auto;
                 
             }
